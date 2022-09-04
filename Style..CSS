@@ -1,0 +1,197 @@
+/* default styling */
+
+*{
+margin: 0;
+padding: 0
+
+}
+
+/* default styling */
+
+*{
+margin: 0;
+padding: 0;
+
+}
+
+.lorem{
+background-color: blueviolet;
+color: aliceblue;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+text-align: center;
+padding: 50px 250px;
+}
+.hero-title{
+    background-color: blueviolet;
+color:aliceblue;
+font-size: 50px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+padding-bottom: 10px;
+}
+.text{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+padding-bottom: 50px;
+}
+.hero-btn{
+background-color:aliceblue;
+color: blueviolet;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+padding: 15px 30px;
+text-decoration:none ;
+font-weight: 600;
+border-radius: 5px;
+}
+.hero-btn:hover{
+background-color: transparent;
+border: 2px solid aliceblue;
+color: aliceblue;
+border-radius: 50px;  
+}
+/* Navigation manu styling */
+
+
+.nave{
+
+background-color: aliceblue;
+padding: 15px 100px;
+display: flex;
+justify-content:space-between;
+align-items:center;
+}
+.logo{
+font-family: Arial, Helvetica, sans-serif;
+color: blueviolet;
+font-size: 40px;
+}
+.manu a{
+font-family: Arial, Helvetica, sans-serif;
+color: blueviolet;
+font-size: 18px;
+font-weight: 600;
+text-decoration: none;
+padding-right: 30px ;
+}
+.manu a:hover {
+background-color:blueviolet;
+padding: 10px 30px;
+color: aliceblue;
+
+}
+/* about us styling */
+.About-Us{
+padding:75px 100px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.about-text h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    color:blueviolet;
+    padding-bottom: 30px;
+
+}
+.about-text p{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+color:blueviolet ;
+line-height: 25px;
+padding-bottom: 50px;
+}
+.about-text,
+.about-img{
+width: 50%;
+}
+.about-img{
+margin-left: 100px;
+
+}
+.about-img img{
+width: 100%;
+
+}
+.about-text a,.img-1 a,.img-2 a,.img-3 a {
+    background-color:blueviolet;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 15px 30px;
+    text-decoration:none ;
+    font-weight: 600;
+    border-radius: 5px;
+    }
+    .about-text a:hover,.img-1 a:hover,.img-2 a:hover,.img-3 a:hover{
+        background-color: transparent;
+        border: 2px solid  blueviolet;
+        color:blueviolet;
+        border-radius: 50px
+    }
+    /* img-area design Start */
+
+    .images{
+        background-color: blueviolet;
+        padding: 80px 100px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        
+    }
+    .img-1,.img-2,.img-3{
+      background-color: aliceblue;
+      width:1200px;
+      padding: 30px;
+      padding-bottom:30px;
+      height: 410px;
+      
+
+    }
+    .img-2{margin: 0px 20px;}
+
+    .img-1 img,.img-2 img,.img-3 img{
+        width: 100%;
+    }
+    .img-1 h1,.img-2 h1,.img-3 h1{
+      font-family: Arial, Helvetica, sans-serif;
+      font-size:30px;
+      font-weight: 700;
+      color: blueviolet;
+      padding-bottom: 20px;
+      padding-top: 10px;
+
+    }
+.img-1 p,.img-2 p,.img-3 p{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px;
+    font-weight:400;
+    color:blueviolet;
+    padding-bottom:30px;
+    line-height: 25px;}
+
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
